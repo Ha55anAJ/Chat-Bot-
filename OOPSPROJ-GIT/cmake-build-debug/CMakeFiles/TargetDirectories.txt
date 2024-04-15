@@ -1,0 +1,3 @@
+/Users/hassan/CLionProjects/OOPSPROJ-GIT/cmake-build-debug/CMakeFiles/OOPSPROJ.dir
+/Users/hassan/CLionProjects/OOPSPROJ-GIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hassan/CLionProjects/OOPSPROJ-GIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
